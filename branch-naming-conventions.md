@@ -8,16 +8,16 @@ type/description-in-kebab-case
 
 ## Standard Type Prefixes
 
-| Prefix     | Usage                                        | Example                        |
-|------------|----------------------------------------------|--------------------------------|
-| `feature/` | New features or significant additions        | `feature/user-authentication`  |
-| `fix/`     | Bug fixes and minor corrections              | `fix/login-validation`         |
-| `hotfix/`  | Urgent production fixes                      | `hotfix/security-breach`       |
-| `bugfix/`  | Alternative to fix/ (team preference)        | `bugfix/data-loss-prevention`  |
-| `docs/`    | Documentation updates                        | `docs/api-documentation`       |
-| `refactor/`| Code restructuring without feature changes   | `refactor/database-queries`    |
-| `test/`    | Test addition or modification               | `test/user-registration`       |
-| `chore/`   | Regular maintenance tasks                    | `chore/dependency-updates`     |
+| Prefix     | Usage                                        | Example                          |
+|------------|----------------------------------------------|----------------------------------|
+| `feature/` | New features or significant additions        | `feature/user-authentication`    |
+| `fix/`     | Bug fixes and minor corrections              | `fix/validate-login`             |
+| `hotfix/`  | Urgent production fixes                      | `hotfix/resolve-security-breach` |
+| `bugfix/`  | Alternative to fix/ (team preference)        | `bugfix/prevent-data-loss`       |
+| `docs/`    | Documentation updates                        | `docs/api-documentation`         |
+| `refactor/`| Code restructuring without feature changes   | `refactor/database-queries`      |
+| `test/`    | Test addition or modification               | `test/user-registration`         |
+| `chore/`   | Regular maintenance tasks                    | `chore/dependency-updates`       |
 
 ## Naming Rules
 
